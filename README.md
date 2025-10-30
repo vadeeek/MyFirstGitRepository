@@ -1,4 +1,4 @@
 # MyFirstGitRepository
 
-Просто изменения 
-saddasdadas
+Просто изменения
+Конфликт
